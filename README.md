@@ -16,4 +16,4 @@ Java · Selenium · TestNG · REST Assured · Maven · GitHub Actions · Allure/
 ```bash
 git clone https://github.com/<amolshankpal>/Selenium-Java-AI-Framework.git
 cd Selenium-Java-AI-Framework
-mvn clean test 
+mvn clean test.
